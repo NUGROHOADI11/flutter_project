@@ -1,0 +1,8 @@
+{
+  "dart.flutterHotReloadOnSave": "all",
+  "dart.hotReloadOnSave": "all",
+  "dart.flutterGenerateLocalizationsOnSave": "all",
+  "dart.previewHotReloadOnSaveWatcher": true,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 500
+}

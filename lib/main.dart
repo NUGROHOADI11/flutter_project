@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'controller/welcome_controller.dart';
 import 'view/welcome_screen.dart';
 

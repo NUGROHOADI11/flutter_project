@@ -28,21 +28,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     height = MediaQuery.of(context).size.height;
     width = MediaQuery.of(context).size.width;
-    // List<String> imagePaths = [
-    //   "images/hotel1.jpg",
-    //   "images/hotel2.jpg",
-    // ];
-    //
-    // List<String> descriptions = [
-    //   "Hotel Surya",
-    //   "Hotel Ari",
-    // ];
-    //
-    // List<String> fees = [
-    //   "\$800",
-    //   "\$100",
-    // ];
-
+    
     return SafeArea(
       child: Scaffold(
         resizeToAvoidBottomInset: false,
